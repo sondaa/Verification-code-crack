@@ -1,0 +1,5 @@
+*.pyc
+
+build/*
+data/*
+__MACOSX/._captcha_master
